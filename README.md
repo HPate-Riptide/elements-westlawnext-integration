@@ -26,7 +26,7 @@ To run the project execute
 ```bash
 node servers.js
 ```
-In a browser navigate to ELEMENTS_HOST/html/index i.e. http://www.elements.com/index
+In a browser navigate to ELEMENTS_HOST/html/index i.e. http://www.elements.com/index.
 
 ## CORS ISSUE
 ### The Problem
